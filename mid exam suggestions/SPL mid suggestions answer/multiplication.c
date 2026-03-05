@@ -8,7 +8,7 @@ int main()
 
     int c = a * b;
 
-    printf("Substruction : %d * %d = %d\n",a , b ,c);
+    printf("Multipication : %d * %d = %d\n",a , b ,c);
 
    return 0;
 }
